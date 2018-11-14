@@ -1,3 +1,3 @@
 # demo-project
 
-Hello
+Hello, world!
